@@ -14,7 +14,7 @@
 
 <h1> Integrante: </h1>
     <h2> Fernando Martinez Cerda </h2> <br>
-    <h2> . </h2>Osbaldo Tadeo Medrano<hr>
+    <h2> Osbaldo Tadeo Medrano</h2><hr>
 
 <h1> Instrucciones extra de su uso: </h1> <br>
 ...
